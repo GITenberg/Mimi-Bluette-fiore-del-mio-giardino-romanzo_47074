@@ -1,4 +1,8 @@
 _repo: Mimi-Bluette-fiore-del-mio-giardino-romanzo_47074
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47074-h/images/cover.jpg
 creator:
   author:
     agent_name: Verona, Guido da
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38208
     wikipedia: http://it.wikipedia.org/wiki/Guido_da_Verona
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47074#Mimi-Bluette-fiore-del-mio-giardino-romanzo
 gutenberg_bookshelf: IT Romanzi
 gutenberg_issued: '2014-10-07'
 gutenberg_type: Text
